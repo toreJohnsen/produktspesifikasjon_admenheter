@@ -1,5 +1,5 @@
 @startuml
-title Administrative enheter kommuner - Objekttyper
+title Vindkraftverk - Objekttyper
 
 skinparam class {
   AttributeIconSize 0
